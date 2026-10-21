@@ -1,0 +1,64 @@
+{
+	"folders": [
+		{
+			"path": "../MEC4980 - Lab 01"
+		},
+		{
+			"name": "MEC4980 - Lab 01",
+			"path": "../../OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/MEC4980 - Lab 01"
+		},
+		{
+			"name": "MEC4980 - Lab 01",
+			"path": "../MEC4980 - Lab 01/MEC4980 - Lab 01"
+		},
+		{
+			"name": "Week 1 - From Scratch",
+			"path": "../Week 1 - From Scratch"
+		},
+		{
+			"name": "Week 02 Lab - Analog Input and Output",
+			"path": "../../OneDrive - Milwaukee School of Engineering/Documents/PlatformIO/Projects/Week 02 Lab - Analog Input and Output"
+		},
+		{
+			"name": "Lab 03 - Thermostat",
+			"path": "../Lab 03 - Thermostat"
+		},
+		{
+			"name": "Lab 03 - Thermostat",
+			"path": "../MEC 4980 - Lab03- Thermostat/Lab 03 - Thermostat"
+		},
+		{
+			"name": "MEC 4980 Homework 1 - Pedometer",
+			"path": "../MEC 4980 - Homework 1- Pedometer/MEC 4980 Homework 1 - Pedometer"
+		},
+		{
+			"name": "MEC 4980 Lab 04 - Visual Level",
+			"path": "../MEC 4980 - Lab 04- Visual Level/MEC 4980 Lab 04 - Visual Level"
+		},
+		{
+			"name": "MEC4980 Week 4 Example - Make Motors Go",
+			"path": "../MEC 4980 Week 04 Example - Make Motors Go/MEC4980 Week 4 Example - Make Motors Go"
+		},
+		{
+			"name": "MEC4980 Homework 2 - Motor Encoder",
+			"path": "../MEC4980 Homework 2 - Motor Encoder/MEC4980 Homework 2 - Motor Encoder"
+		},
+		{
+			"name": "MEC4980 Week 06 - Factory Line",
+			"path": "../MEC4980 Week 06 - Factory Startup/MEC4980 Week 06 - Factory Line"
+		},
+		{
+			"name": "Week 06 - Intro to Midterm",
+			"path": "../Week 06 - Intro to Midterm/Week 06 - Intro to Midterm"
+		},
+		{
+			"name": "Week 07 - Stepper Motors",
+			"path": "../Week 07 - Stepper Motors/Week 07 - Stepper Motors"
+		},
+		{
+			"name": "Midterm Project - Joystick",
+			"path": "Midterm Project - Joystick"
+		}
+	],
+	"settings": {}
+}
